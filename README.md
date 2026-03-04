@@ -1,74 +1,68 @@
-# 🌸✨ Kon'nichiwa! Eu sou uma Anime Dev ✨🌸
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250px" align="right"/>
-
-## 💖 Sobre mim
-
-🌸 Desenvolvedora apaixonada por código  
-💻 Especialista em **Java & JavaScript**  
-🚀 Explorando todo o ecossistema backend & frontend  
-✨ Transformando café em código desde sempre  
-
----
-
-## 🧠 Tech Stack
-
-### ☕ Java Ecosystem
-- Java (Core)
-- Spring Boot
-- Spring MVC
-- Spring Security
-- JPA / Hibernate
-- Maven / Gradle
-- APIs REST
-- Microsserviços
-
-### 🌐 JavaScript Ecosystem
-- JavaScript (ES6+)
-- Node.js
-- Express
-- React
-- APIs REST
-- NPM / Yarn
-
----
-
-## 💻 Atualmente estudando
-
-🌸 Arquitetura de Software  
-🌸 Clean Code & SOLID  
-🌸 Docker & Cloud  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
-
+<div align="justify">
+  
+ **Fullstack Developer** passionate about technology and innovation  
+ **Internet Systems Student** at UniALfa Umuarama  
 </div>
 
 ---
 
-## ✨ Filosofia Dev
+##  Technologies & Tools
 
-> "Code with love, deploy with power." 💖⚡
+<div align="center">
+  
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,python,ts,nodejs,react,laravel,php,docker,tailwind,bootstrap,express,composer,java)
+  
+</div>
+
+
+---
+
+
+## GitHub Statistics
+
+<div align="center">
+  
+  <img width="49%" alt="Ville's GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=1b24&show_icons=true&theme=tokyonight&custom_title=Estat%C3%ADsticas%20do%20GitHub" />
+  <img width="49%" alt="GitHub Streak" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1b24&layout=compact&theme=tokyonight" />
+    
+</div>
 
 ---
 
-## 🌸 Contato
+## 📈 Activity Graph
 
-💌 Email: heitorcorrea@email.com  
-💼 LinkedIn: https://linkedin.com/in/heitorcorrea
+<div align="center">
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1b24&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF&area=true&area_color=5CE1E6)
+  
+</div>
 
 ---
+
+##  Connect with Me
 
 <div align="center">
 
-✨ Obrigada por visitar meu perfil ✨  
-(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
-
+  <a href="https://github.com/1b24" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:correaheitor96@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/correaheitor_/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  
 </div>
+
+
+---
+
+
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+</div>
+
+---
