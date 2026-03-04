@@ -4,7 +4,14 @@
  **Internet Systems Student** at UniALfa Umuarama  
 </div>
 
+## GitHub Statistics
 
+<div align="center">
+  
+  <img width="49%" alt="Ville's GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=1b24&show_icons=true&theme=tokyonight&custom_title=Estat%C3%ADsticas%20do%20GitHub" />
+  <img width="49%" alt="GitHub Streak" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1b24&layout=compact&theme=Palenight" />
+    
+</div>
 
 ##  Technologies & Tools
 
@@ -12,19 +19,6 @@
   
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,python,ts,nodejs,react,laravel,php,docker,tailwind,bootstrap,express,composer,java)
   
-</div>
-
-
-
-
-
-## GitHub Statistics
-
-<div align="center">
-  
-  <img width="49%" alt="Ville's GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=1b24&show_icons=true&theme=tokyonight&custom_title=Estat%C3%ADsticas%20do%20GitHub" />
-  <img width="49%" alt="GitHub Streak" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1b24&layout=compact&theme=tokyonight" />
-    
 </div>
 
 
