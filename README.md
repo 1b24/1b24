@@ -10,7 +10,7 @@
 <div align="center">
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=1b24&show_icons=true&theme=catppuccin&custom_title=Estat%C3%ADsticas%20do%20GitHub" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1b24&layout=compact&theme=catppuccin" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1b24&layout=compact&theme=dark" />
     
 </div>
 
