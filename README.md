@@ -4,7 +4,7 @@
  **Internet Systems Student** at UniALfa Umuarama  
 </div>
 
----
+
 
 ##  Technologies & Tools
 
@@ -15,7 +15,7 @@
 </div>
 
 
----
+
 
 
 ## GitHub Statistics
@@ -27,9 +27,8 @@
     
 </div>
 
----
 
-## 📈 Activity Graph
+##  Activity Graph
 
 <div align="center">
   
@@ -37,7 +36,7 @@
   
 </div>
 
----
+
 
 ##  Connect with Me
 
