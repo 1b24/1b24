@@ -9,7 +9,7 @@
 <div align="center">
   
   <img width="49%" alt="Ville's GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=1b24&show_icons=true&theme=tokyonight&custom_title=Estat%C3%ADsticas%20do%20GitHub" />
-  <img width="49%" alt="GitHub Streak" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1b24&layout=compact&theme=Catppuccin" />
+  <img width="49%" alt="GitHub Streak" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1b24&layout=compact&theme=catppuccin" />
     
 </div>
 
